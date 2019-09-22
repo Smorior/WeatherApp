@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="595fc56a-e386-4888-ae8f-41585c8a4232" name="Default Changelist" comment="" />
+    <list default="true" id="595fc56a-e386-4888-ae8f-41585c8a4232" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WeatherStation_csv_from_20180221_to_20180619/.~lock.WeatherStation_PLV1.csv#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sample/MyRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/MyRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sample/WeatherApp$$typecreator4$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/WeatherApp$$typecreator4$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sample/WeatherApp$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/WeatherApp$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sample/WeatherApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sample/WeatherApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/plv/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/plv/.part-00000-782f91de-3b28-4a8c-a8a2-a3ca255c4d39-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/plv/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/plv/part-00000-782f91de-3b28-4a8c-a8a2-a3ca255c4d39-c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/anemometer/1 day/.part-00000-225df57c-ef4f-48dc-9877-f2479e01102e-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/anemometer/1 day/part-00000-225df57c-ef4f-48dc-9877-f2479e01102e-c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/anemometer/30 days/.part-00000-d7410763-816f-43f1-9a01-922c2a685b63-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/anemometer/30 days/part-00000-d7410763-816f-43f1-9a01-922c2a685b63-c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/anemometer/60 minutes/.part-00000-ce5cf76a-5a2b-4db5-8ade-001a12f8d3e7-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/anemometer/60 minutes/part-00000-ce5cf76a-5a2b-4db5-8ade-001a12f8d3e7-c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/humidity/1 day/.part-00000-bb6b891a-cd1e-4468-8be3-097866639d0d-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/humidity/1 day/part-00000-bb6b891a-cd1e-4468-8be3-097866639d0d-c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/humidity/30 days/.part-00000-187e073b-a360-431c-98b8-a4deac235bda-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/humidity/30 days/part-00000-187e073b-a360-431c-98b8-a4deac235bda-c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/humidity/60 minutes/.part-00000-c1e62246-8901-4f4c-9b98-1b7032a9df56-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/humidity/60 minutes/part-00000-c1e62246-8901-4f4c-9b98-1b7032a9df56-c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/luxometer/1 day/.part-00000-c26d61f8-06ff-4a24-b2b5-1a069c5ac5fa-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/luxometer/1 day/part-00000-c26d61f8-06ff-4a24-b2b5-1a069c5ac5fa-c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/luxometer/30 days/.part-00000-be63b9e3-1665-4e0a-8eb7-9f401a9ec39c-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/luxometer/30 days/part-00000-be63b9e3-1665-4e0a-8eb7-9f401a9ec39c-c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/luxometer/60 minutes/.part-00000-242e7b5b-fd7f-4f74-81d0-a400438e2c5b-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/luxometer/60 minutes/part-00000-242e7b5b-fd7f-4f74-81d0-a400438e2c5b-c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/pluviometer/1 day/.part-00000-48f1709d-ed4a-4e60-960e-e7c5729e076d-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/pluviometer/1 day/part-00000-48f1709d-ed4a-4e60-960e-e7c5729e076d-c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/pluviometer/1 hour/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/pluviometer/1 hour/.part-00000-5c8723d2-e8fa-4209-965d-3a67607f6eaa-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/pluviometer/1 hour/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/pluviometer/1 hour/part-00000-5c8723d2-e8fa-4209-965d-3a67607f6eaa-c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/pluviometer/30 days/.part-00000-6ecc9ee6-219d-455f-84b6-0614c94e7df4-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/pluviometer/30 days/part-00000-6ecc9ee6-219d-455f-84b6-0614c94e7df4-c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/temperature/1 day/.part-00000-c89ded26-1e38-4640-bffa-3f28818d7de8-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/temperature/1 day/part-00000-c89ded26-1e38-4640-bffa-3f28818d7de8-c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/temperature/30 days/.part-00000-d5018c41-b941-48d2-9a2a-b70788902a87-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/temperature/30 days/part-00000-d5018c41-b941-48d2-9a2a-b70788902a87-c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/temperature/60 minutes/.part-00000-a187b41e-6d8a-46c6-a3e0-952435c5680f-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/temperature/60 minutes/part-00000-a187b41e-6d8a-46c6-a3e0-952435c5680f-c000.csv" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
